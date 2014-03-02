@@ -1,0 +1,4 @@
+C:\Users\Paweł\Desktop\git test\gitproject\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Paweł\Desktop\git test\gitproject\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Paweł\Desktop\git test\gitproject\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+C:\Users\Paweł\Desktop\git test\gitproject\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb

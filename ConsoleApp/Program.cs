@@ -12,4 +12,8 @@ namespace ConsoleApp
 
         }
     }
+    class strazak
+    {
+        public string name { get; set; }
+    }
 }
